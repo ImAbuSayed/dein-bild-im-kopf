@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dein-bild-im-kopf/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Dein Bild im Kopf](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-bild-im-kopf/) |
+| **Get License** | [Official Music Licensing for Dein Bild im Kopf](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-bild-im-kopf/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `823fccb4bc8157e6f1a6cfcbbdee1e6ea78e59979a757a1e9d256f771731ec92` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
