@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dein-bild-im-kopf/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Dein Bild im Kopf](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-bild-im-kopf/) |
+| **Get License** | [License this song: Dein Bild im Kopf](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-bild-im-kopf/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, ich schließ' die Augen, seh' nur dein Bild im Kopf
+> Late night, wir cruisen durch die City, bis der Motor stoppt
+> Du bist gefährlich, dein Blick zieht mich in den Bann
+> Lass uns heut' brennen, weil uns keiner mehr aufhalten kann
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
